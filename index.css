@@ -1569,4 +1569,7 @@
     text-align: center;
     margin-bottom: var(--dl-space-space-oneandhalfunits);
   }
+  .middle-align {
+    text-align: center;
+  }
 }
